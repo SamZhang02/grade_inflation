@@ -1,5 +1,5 @@
 from dataclasses import dataclass
-from enum import Enum
+from enum import IntEnum
 
 
 @dataclass
@@ -18,7 +18,7 @@ class Course:
         return cls(s[:4], s[4:])
 
 
-class Season(Enum):
+class Season(IntEnum):
     WINTER = 0
     SUMMER = 1
     FALL = 2
