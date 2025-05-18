@@ -18,9 +18,9 @@ Some departments like COMP (Computer Science) closely follow the overall inflati
 
 ![comp_average](plot/by_term/COMP.png)
 
-Others, such as MECH (Mechanical Engineering), show a much flatter trend, suggesting more consistent grading standards:
+It is interesting to see some up trend even with departments with controleld averages, like MGCR (Management Core):
 
-![mech_average](plot/by_term/MECH.png)
+![mgcr_average](plot/by_term/MGCR.png)
 
 ## Data Disclaimer
 
