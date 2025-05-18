@@ -18,7 +18,7 @@ Some departments like COMP (Computer Science) closely follow the overall inflati
 
 ![comp_average](plot/by_term/COMP.png)
 
-It is interesting to see some up trend even with departments with controleld averages, like MGCR (Management Core):
+It is interesting to see some up trend even with departments with controlled averages, like MGCR (Management Core):
 
 ![mgcr_average](plot/by_term/MGCR.png)
 
