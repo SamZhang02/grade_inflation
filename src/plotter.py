@@ -116,7 +116,7 @@ def plot_overall_by_term(overall_avg: OverrallAverageResultByTerm):
     plt.tight_layout()
 
     os.makedirs("plot/by_term", exist_ok=True)
-    plt.savefig("plot/by_term/overall_by_term.png")
+    plt.savefig("plot/by_term/overall.png")
     plt.close()
 
 
