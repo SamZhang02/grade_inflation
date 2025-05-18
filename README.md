@@ -2,6 +2,8 @@
 
 Is grade inflation at McGill real? [McGill Enhanced](https://github.com/demetrios-koziris/McGillEnhanced) crowdsources the course averages for many courses offered, so I run some visualization on it to see if grade inflation is actually happening.
 
+The data is as of May 17, 2025
+
 ## Methodology
 
 I analyzed average course grades over time using data points grouped by term and department. For each term, I computed the average grade across all reported courses. I then generated trendlines using linear regression to identify any long-term patterns. Additionally, I broke down averages by department (e.g., COMP, MATH) to see if the trends were consistent across disciplines.
