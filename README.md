@@ -24,6 +24,6 @@ It is interesting to see some up trend even with departments with controlled ave
 
 ![mgcr_average](plot/by_term/MGCR.png)
 
-## Data Disclaimer
+## Limitations
 
 Some departments have missing data for certain terms, so the analysis isn’t perfectly complete. The overall averages may be weighted more heavily toward terms with more available data, which can skew the results slightly. Interpret the trends with this limitation in mind.
